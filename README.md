@@ -24,8 +24,8 @@ Anyone can contribute
 None
 
 ## Credits
-Bootcamp Course Info
-https://nextjs.org/docs/pages/building-your-application/routing/api-routes
+- Bootcamp Course Info
+- https://nextjs.org/docs/pages/building-your-application/routing/api-routes
 
 ## License
 None
